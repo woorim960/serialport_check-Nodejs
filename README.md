@@ -39,4 +39,4 @@ node serialport-check.js
 <img width="186" alt="스크린샷 2020-07-15 오후 4 15 18" src="https://user-images.githubusercontent.com/56839474/87515735-3c3a7400-c6b7-11ea-9dca-10ad8f904c48.png">
 
 
-Discription : https://blog.naver.com/dnfla420/222031745723
+Description : https://blog.naver.com/dnfla420/222031745723
