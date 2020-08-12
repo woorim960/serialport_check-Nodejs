@@ -2,7 +2,7 @@
 Node에서 시리얼 포트를 확인하는 법
 
 ## 메인 소스
-```
+```javascript
 // 시리얼 포트 모듈 포함
 const SerialPort = require('serialport');
 
